@@ -1,0 +1,6 @@
+daniel Matthew C. Milanes
+$ git config --global user.name "mattydanny"
+$ git config --global user.email "danielmatthewmilanes04@gmail.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
